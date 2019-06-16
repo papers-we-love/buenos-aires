@@ -20,7 +20,7 @@ We are curating this repository for papers presented at Papers We Love @ Buenos 
 
 ### When and Where?
 
-PwL meetings occur monthly. Stay tuned for more information about future [meetup][meetup] dates!
+PwL meetings occur every few months. Stay tuned for more information about future [Meetup](https://www.meetup.com/Papers-We-Love-Buenos-Aires/) dates!
 
 ### Who are we?
 
