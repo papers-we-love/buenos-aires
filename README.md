@@ -41,9 +41,10 @@ Reading a paper is not the same as reading a novel or a blogpost. These are few 
 
 ### Want to present?
 
-- Submit a talk proposal [mail@fcarrone.com](mailto:mail@fcarrone.com)
+- Submit a talk proposal [here](https://github.com/papers-we-love/buenos-aires/issues)
 - For paper ideas, PwL maintains a [repository of papers](https://github.com/papers-we-love/papers-we-love)
-- Feel free to [contact one of the organizers](#Contact) if you have any question.
+- Feel free to [contact one of the organizers](#contact) if you have any question.
+
 
 ### Contact
 
