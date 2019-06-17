@@ -13,13 +13,13 @@ We are curating this repository for papers presented at Papers We Love @ Buenos 
 
 ### Join us!
 
-- Join us on [Meetup](https://www.meetup.com/papers-we-love-ba) to be notified of new meetings
+- Join us on [Meetup](https://www.meetup.com/papers-we-love-buenos-aires/) to be notified of new meetings
 - Join us in [Telegram](https://t.me/papersweloveba)
 - Attend a meeting and introduce yourself
 
 ### When and Where?
 
-PwL meetings occur every few months. Stay tuned for more information about future [Meetup](https://www.meetup.com/papers-we-love-ba) dates!
+PwL meetings occur every few months. Stay tuned for more information about future [Meetup](https://www.meetup.com/papers-we-love-buenos-aires/) dates!
 
 ### Who are we?
 
