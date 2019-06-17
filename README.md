@@ -13,14 +13,13 @@ We are curating this repository for papers presented at Papers We Love @ Buenos 
 
 ### Join us!
 
-- Join us on [Meetup](https://www.meetup.com/Papers-We-Love-Buenos-Aires/) to be notified of new meetings
-- Follow [@paperswelove_ba]() on Twitter
+- Join us on [Meetup](https://www.meetup.com/papersweloveba/) to be notified of new meetings
 - Join us in [Telegram](https://t.me/papersweloveba)
 - Attend a meeting and introduce yourself
 
 ### When and Where?
 
-PwL meetings occur every few months. Stay tuned for more information about future [Meetup](https://www.meetup.com/Papers-We-Love-Buenos-Aires/) dates!
+PwL meetings occur every few months. Stay tuned for more information about future [Meetup](https://www.meetup.com/papersweloveba/) dates!
 
 ### Who are we?
 
@@ -42,10 +41,10 @@ Reading a paper is not the same as reading a novel or a blogpost. These are few 
 
 ### Want to present?
 
-- Submit a talk proposal [here][talk-proposal]
-- For paper ideas, PwL maintains a [repository of papers][pwl-repo]
-- Feel free to [contact one of the organizers](#contact-us) if you have any question.
+- Submit a talk proposal [][talk-proposal]
+- For paper ideas, PwL maintains a [repository of papers](https://github.com/papers-we-love/papers-we-love)
+- Feel free to [contact one of the organizers](#Contact) if you have any question.
 
 ### Contact
 
-- Federico Carrone [@unbalancedparen](https://twitter.com/unbalancedparen), mail@fcarrone.com, +5491153119092
+- Federico Carrone [@unbalancedparen](https://twitter.com/unbalancedparen), [mail@fcarrone.com](mailto:mail@fcarrone.com), +5491153119092
