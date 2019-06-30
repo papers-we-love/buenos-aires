@@ -38,6 +38,8 @@ Reading a paper is not the same as reading a novel or a blogpost. These are few 
 * [How to read and understand a scientific paper](http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
 * [Should I Read Papers?](http://michaelrbernste.in/2014/10/21/should-i-read-papers.html)
 * [The Refreshingly Rewarding Realm of Research Papers](https://www.youtube.com/watch?v=8eRx5Wo3xYA)
+* [How to choose a talk topic](https://www.deconstructconf.com/blog/how-to-choose-a-talk-topic)
+* [How to prepare a talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk)a
 
 ### Want to present?
 
